@@ -1,8 +1,8 @@
 {
   "name": "trust-html",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "angular2+ trust html module which exposes trust-html-pipe",
-  "main": "src/trust-html.pipe.ts",
+  "main": "./src/trust-html.module.ts",
   "types": "index.d.ts",
   "author": {
     "name": "tvicpe",
@@ -38,8 +38,8 @@
     "trustHtmlPipe"
   ],
   "dependencies": {
-    "@angular/core": "*",
-    "trust-html-pipe": "^0.0.4",
+    "@angular/core": ">=2.3.1",
+    "trust-html-pipe": ">=0.0.5",
     "zone.js": "^0.7.2"
   },
   "devDependencies": {
