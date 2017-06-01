@@ -48,4 +48,4 @@ here: [https://github.com/tvicpe/trust-html-pipe](https://github.com/tvicpe/trus
   
   
 ### <a name="version"></a>5. Version
-0.0.5
+0.0.6
