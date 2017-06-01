@@ -1,0 +1,50 @@
+{
+  "name": "trust-html",
+  "version": "0.0.1",
+  "description": "angular2+ trust html module which exposes trust-html-pipe",
+  "main": "src/trust-html.pipe.ts",
+  "types": "index.d.ts",
+  "author": {
+    "name": "tvicpe",
+    "email": "tv@tomsa.md",
+    "url": "https://github.com/tvicpe"
+  },
+  "repository": "tvicpe/trust-html-pipe",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/tvicpe/trust-html-pipe/blob/master/LICENSE"
+    }
+  ],
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "test": "ng test",
+    "lint": "ng lint",
+    "e2e": "ng e2e"
+  },
+  "keywords": [
+    "trust-html",
+    "trustHtml",
+    "inject",
+    "html",
+    "module",
+    "trust",
+    "angular",
+    "angular2",
+    "pipe",
+    "trust-html-pipe",
+    "trustHtmlPipe"
+  ],
+  "dependencies": {
+    "@angular/core": "*",
+    "trust-html-pipe": "^0.0.4",
+    "zone.js": "^0.7.2"
+  },
+  "devDependencies": {
+    "ts-node": "~2.0.0",
+    "tslint": "~4.5.0",
+    "typescript": "~2.2.0"
+  }
+}
