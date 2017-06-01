@@ -1,6 +1,6 @@
 {
   "name": "trust-html",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "angular2+ trust html module which exposes trust-html-pipe",
   "main": "./src/trust-html.module.ts",
   "types": "index.d.ts",
