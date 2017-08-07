@@ -27,7 +27,7 @@ import {TrustHtmlModule} from 'trust-html';
   
 Add the module into the app's module `imports` section:
 ```typescript
-import { TrustHtmlModule } from 'ng2-modal-module';
+import { TrustHtmlModule } from 'trust-html';
 
 @NgModule({
   //...
@@ -48,4 +48,4 @@ here: [https://github.com/tvicpe/trust-html-pipe](https://github.com/tvicpe/trus
   
   
 ### <a name="version"></a>5. Version
-0.0.6
+0.0.7
